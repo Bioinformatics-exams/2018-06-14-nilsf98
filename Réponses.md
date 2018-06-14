@@ -54,7 +54,14 @@ http://mecp2.chw.edu.au/cdkl5/cdkl5_variant?mut_id=197
 http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chrX%3A18646577%2D18646597&hgsid=676703385_u0zDLpcMaQ4yAF5ltSqZTlTZNXcU
 
 ### Q12
+Le gène est situé sur le brin sens (Strand +).
+http://genome.ucsc.edu/cgi-bin/hgGene?hgg_gene=uc004cym.3&hgg_prot=uc004cym.3&hgg_chrom=chrX&hgg_start=18443724&hgg_end=18671749&hgg_type=knownGene&db=hg19&hgsid=676703385_u0zDLpcMaQ4yAF5ltSqZTlTZNXcU
 
+## Q13
+Le transcrit  NM_003159.2 contient 21 exons dont 20 sont codants.
+http://genome.ucsc.edu/cgi-bin/hgGene?hgg_gene=uc004cym.3&hgg_prot=uc004cym.3&hgg_chrom=chrX&hgg_start=18443724&hgg_end=18671749&hgg_type=knownGene&db=hg19&hgsid=676703385_u0zDLpcMaQ4yAF5ltSqZTlTZNXcU
+
+## Q14
 
 ## Exercice 2
 ### Q1
