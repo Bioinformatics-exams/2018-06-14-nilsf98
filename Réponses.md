@@ -70,6 +70,13 @@ http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&lastVirtModeType=default&lastVir
 
 ## Exercice 2
 ### Q1
-Texte de votre réponse…
+OMIM database: C'est une base de donnéé regroupant toutes les maladies et phénotypes humains connus et les relie si possible avec leurs gènes associés.
+
+DDGP2 gene list: C'est une liste de gènes associé à des troubles du developpement, créée et déclarée par des cliniciens.
+https://decipher.sanger.ac.uk/info/ddg2p
+
 ### Q2
-Texte de votre réponse…
+Criteria of Plon et al.: 
+Sequence variant classification and reporting: recommendations for improving the interpretation of cancer susceptibility genetic test results.
+
+
