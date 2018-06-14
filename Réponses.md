@@ -32,11 +32,11 @@ Pour le variant NM_003159.2:c.2593C>T la notation protéique correspond NM_00315
 https://mutalyzer.nl/name-checker?description=NM_003159.2%3Ac.2593C%3ET
 
 ### Q8
-Ex. pour NM_003159.2(CDKL5_i001):p.(Arg444Cys)
-NM: mRNA
-003159.2: numéro du transcrit version 2
-(CDKL5_i001): nom du gène et numéro d'isoforme
-p: notation protéique
+Ex. pour NM_003159.2(CDKL5_i001):p.(Arg444Cys);
+NM: mRNA;
+003159.2: numéro du transcrit version 2;
+(CDKL5_i001): nom du gène et numéro d'isoforme;
+p: notation protéique;
 (Arg444Cys): Substitution de l'acide aminé Arginine par une Cystéine en position 444 de la protéine.
 
 ### Q9
