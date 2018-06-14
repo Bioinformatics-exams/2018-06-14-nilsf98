@@ -79,4 +79,10 @@ https://decipher.sanger.ac.uk/info/ddg2p
 Criteria of Plon et al.: 
 Sequence variant classification and reporting: recommendations for improving the interpretation of cancer susceptibility genetic test results.
 
+### Q3
+a) NM_001190274.1 C'est le transcrit de référence (ARNm) du gène FBOX11.
+b) HGVS: C'est une nomenclature utiliséé pour nommer les variations soit en nucléotidique, protéique ou génomique.
+c) GRCh37/hg19: C'est le génome de référence humain maintenu par un consortium international. Il est fréquemment mis à jour. Ceci est la version UCSC hg19.
+
+### Q4
 
