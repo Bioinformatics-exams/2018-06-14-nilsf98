@@ -37,7 +37,8 @@ NM: mRNA;
 003159.2: numéro du transcrit version 2;
 (CDKL5_i001): nom du gène et numéro d'isoforme;
 p: notation protéique;
-(Arg444Cys): Substitution de l'acide aminé Arginine par une Cystéine en position 444 de la protéine.
+(Arg444Cys): Substitution de l'acide aminé Arginine par une Cystéine en position 444 de la protéine;
+(Gln865*): Glutamine remplacéé par un codon stop en position 865 de la protéine
 
 ### Q9
 NM_003159.2:c.1330C>T est un variant faux sens avec substition d'une arginine par une cystéine.
