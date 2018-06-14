@@ -8,7 +8,7 @@ Les trois gènes associés sont: MECP2, CDKL5 et Nétrine G1.
 https://www.orpha.net/consor/cgi-bin/OC_Exp.php?Lng=FR&Expert=778
 
 ### Q2
-Les variant NM_003159.2 se trouvent dans le gène CDKL5.
+Les variants NM_003159.2 se trouvent dans le gène CDKL5.
 https://www.ncbi.nlm.nih.gov/nuccore/NM_003159.2
 
 ### Q3
