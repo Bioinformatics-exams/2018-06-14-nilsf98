@@ -20,9 +20,10 @@ Le mode de transmission est dominant lié au chromosome X.
 https://www.omim.org/entry/300203
 
 ### Q5
-
+Le présence d'un seul gène anormal est suffisant pour que la maladie s'exprime à la fois chez les garcons et les filles. Si le gène est transmis par l'un des parents, celui-ci est obligatoirment malade à cause de l'expression dominante. L'expression dépend de la pénétrance.
 
 ### Q6
+Un père porteur du gène anormal ne transmettra jamais la maladies à ses fils mais toutes ses filles seront malades. Une mère porteuse de l'anomalie transmettra la maladie à la moitié de ses filles si elle est hétérozygote.
 
 ### Q7
 Pour le variant NM_003159.2:c.1330C>T la notation protéique correspond à NM_003159.2(CDKL5_i001):p.(Arg444Cys).
