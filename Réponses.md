@@ -86,4 +86,8 @@ b) HGVS: C'est une nomenclature utiliséé pour nommer les variations soit en nu
 c) GRCh37/hg19: C'est le génome de référence humain maintenu par un consortium international. Il est fréquemment mis à jour. Ceci est la version UCSC hg19.
 
 ### Q4
+La technique utiliséé est le WES ou whole génome sequencing.
+
+### Q5
+Suite au séquencage gène FBXO11, les séquences ont étées alignées avec des génomes de référence. Cela permet de déterminer si c'est un variant deja connu ou s'il est n'a pas encore été decouvert.
 
