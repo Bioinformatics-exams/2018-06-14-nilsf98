@@ -45,7 +45,7 @@ NM_003159.2:c.1330C>T est un variant faux sens avec substition d'une arginine pa
 NM_003159.2:c.2593C>T est un variant non sens avec introduction d'un codon stop.
 
 ### Q10
-Le variant NM_003159.2:c.1330C>T est considéré comme bénign et non pathogène. On a retrouvée cette mutation chez d'autres personnes alors qu'ils ne sont soit pas atteints par le syndrome de Rett, soit atteints mais sans preuve pour le lien entre le variant et le syndrome. Il a été retrouvé chez des sujets masculins et féminins sains.
+Le variant NM_003159.2:c.1330C>T est considéré comme bénign et non pathogène. On a retrouvée cette mutation chez d'autres personnes alors qu'elles ne sont soit pas atteintes par le syndrome de Rett, soit atteintes mais sans certitude pour le lien entre le variant et le syndrome. Ce variant a été retrouvé chez des sujets masculins et féminins sains.
 http://mecp2.chw.edu.au/cdkl5/cdkl5_variant?mut_id=21
 
 De l'autre coté le variant NM_003159.2:c.2593C>T produit une protéine tronquée avec une perte de la partie C-terminale de la protéine. Il est considéré comme pathogène et probablement responsable du syndrome chez la patiente.
