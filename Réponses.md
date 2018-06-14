@@ -77,7 +77,7 @@ DDGP2 gene list: C'est une liste de gènes associé à des troubles du developpe
 https://decipher.sanger.ac.uk/info/ddg2p
 
 ### Q2
-Criteria of Plon et al.: Il existe énormement de variants dans la population mais tous ne sont pas forcément pathogènes. Pour classer les variants selon leur probabilité d'etre associé à une pathologie, des critères comme ceux de Plon et al sont nécessaires. Il existe une multitude de critères pour les classement.
+Criteria of Plon et al.: Il existe énormement de variants dans la population mais tous ne sont pas forcément pathogènes. Pour classer les variants selon leur probabilité d'etre associé à une pathologie, des critères comme ceux de Plon et al sont nécessaires. Il existe une multitude de critères pour les classements.
 
 ### Q3
 a) NM_001190274.1 C'est le transcrit de référence (ARNm) du gène FBOX11.
